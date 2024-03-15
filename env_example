@@ -1,0 +1,18 @@
+VITE_APP_DOCUMENT_TITLE=App title
+
+# locale settings
+# example value: en 
+VITE_APP_DEFAULT_LANG=en
+# example value: en,ru
+VITE_APP_ALLOWED_LANGS=en,ru
+
+# dev server
+VITE_BACKEND_SCHEME=https
+VITE_BACKEND_CLEAR_URL=test.ru
+VITE_BACKEND_PORT=
+
+
+# local server
+# VITE_BACKEND_SCHEME=http
+# VITE_BACKEND_CLEAR_URL=localhost
+# VITE_BACKEND_PORT=8077
